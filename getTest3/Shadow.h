@@ -1,9 +1,9 @@
 #pragma once
 #include <stdio.h>
-class Light
+class Shadow
 {
 public:
-	Light(void);
-	~Light(void);
+	Shadow(void);
+	~Shadow(void);
 };
 
