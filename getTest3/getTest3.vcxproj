@@ -76,13 +76,11 @@
   <ItemGroup>
     <ClInclude Include="Camera.h" />
     <ClInclude Include="Light.h" />
-    <ClInclude Include="Shadow.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Camera.cpp" />
     <ClCompile Include="Light.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Shadow.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
